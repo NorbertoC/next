@@ -28,7 +28,7 @@ Install dependencies: npm install or yarn install.
 
 Start the development server:
 ```bash
-npm run dev or yarn dev.
+npm run dev
 # or
 yarn dev
 ```
