@@ -26,7 +26,7 @@ export default function FollowClient({ targetUserId, isFollowing }: Props) {
 		
 		setIsFetching(false);
 		
-		console.log(res)
+		console.log('FollowClient response: ', res)
 		
 		startTransition(() => {
 			// Refresh the current route:
